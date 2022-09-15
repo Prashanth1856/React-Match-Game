@@ -1,0 +1,15 @@
+.tab-item {
+  background-color: transparent;
+  border: none;
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 24px;
+  outline: none;
+  cursor: pointer;
+}
+
+.active-tab {
+  color: #fec653;
+  border-bottom: 2px solid #fec653;
+}
